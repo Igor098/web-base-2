@@ -136,7 +136,7 @@ body {
 }
 
 .active {
-    color: #3172B9;
+    color: #1C1C1C;
 }
 
 .header-list .active:after {
@@ -145,7 +145,7 @@ body {
     height: 2px;
     display: block;
     bottom: 25%;
-    background-color: #3172B9;
+    background-color: #1C1C1C;
 }
 
 /* hero --------------------------------------------*/
